@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5172533-c44b-474d-878d-307c70ff6b4e)# Implementação de Controlador PID para Sistema de Suspensão Ativa Quarter-Car
+# Implementação de Controlador PID para Sistema de Suspensão Ativa Quarter-Car
 
 Este projeto apresenta a implementação de um controlador PID em um sistema de suspensão ativa usando o modelo simplificado *quarter-car*. O objetivo do projeto é desenvolver um controlador que otimize a resposta transitória e a estabilidade do sistema, proporcionando maior conforto e estabilidade em veículos.
 
